@@ -40,7 +40,6 @@
 
 ### ☁️ Deployment & Tools  
 <p>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" alt="Render" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" alt="Supabase" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" alt="VS Code" />
 </p>
@@ -51,12 +50,3 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" alt="Figma" />
 </p>
 
-### 💻 OS
-<p>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" alt="MacOS" />
-</p>
-
----
-
-📫 **Feel free to reach out or collaborate!**  
-🌱 Currently learning more about AI integration, DevOps, and scalable backend systems.
