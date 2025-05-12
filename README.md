@@ -2,8 +2,6 @@
 
 🎓 **Computer Science student @ KMUTNB**  
 
----
-
 ## 🛠️ Skills
 
 ### 👨‍💻 Programming Languages  
