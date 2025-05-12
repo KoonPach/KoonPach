@@ -2,8 +2,6 @@
 
 🎓 **Computer Science student @ KMUTNB**  
 
-## 🛠️ Skills
-
 ### 👨‍💻 Programming Languages  
 <p>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" alt="C" />
